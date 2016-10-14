@@ -1,2 +1,5 @@
-# ayudatee-blog
-Theme Wordpress 
+# ayudantee-blog
+Theme for Wordpress 
+
+## Plugins
+sexy-author-bio
